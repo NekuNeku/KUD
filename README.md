@@ -1,4 +1,4 @@
-![Banner](https://github.com/NekuNeku/KUD/blob/master/Banners/Readme/1/KUD-Banner.png)
+![Banner](https://github.com/NekuNeku/KUD/blob/master/Banners/Readme/1/KUD-Banner-Github.png)
 
 ﻿**Rules**
 
