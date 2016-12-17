@@ -1,6 +1,6 @@
 ![Banner](https://github.com/NekuNeku/KUD/blob/master/Banners/Readme/1/KUD-Banner-Github.png)
 
-﻿**Rules**
+#Rules
 
 • Keep spamming/shitposting to **``#spam``**
 
@@ -11,7 +11,7 @@
 • All rules apply to Direct Messages (DMs).
 
 
-**Advice**
+#Advice
 
 • In order to gain access to the hidden channels go-to **``#bot-commands``** and look at the pinned message.
 
@@ -26,13 +26,12 @@
 • **``Neku's``** website is <http://www.nekku.me/>
 
 
-**Events**
+#Events
 
 • The movie poll is at 9pm every Friday UTC+0.
 
 • The winning movie will be streamed the next day at 9pm (Saturday).
 
 
-**Invite Link**
-
+#Invite Link
 https://discord.gg/QnFGxJG
