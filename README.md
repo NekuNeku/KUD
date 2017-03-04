@@ -9,7 +9,7 @@
 
 #Rules
 
-• Keep NSFW content to its respective channels.
+• Keep NSFW content to its respective channels(the channels are #nsfw and #alt-nsfw).
 
 • Spamming will not be tolerated.
 
