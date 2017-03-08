@@ -46,9 +46,13 @@
 
 #Events
 
-• The movie poll is at 9pm every Friday UTC+0.
+• ``[Timezone`` UTC+0
 
-• The winning movie will be streamed the next day at 9pm (Saturday).
+• ``[Thursday]`` Hentai poll at 9pm weekly.
+
+• ``[Friday]`` Hentai stream at 9pm weekly | Movie poll at 9pm weekly.
+
+• ``[Saturday]`` Movie stream 9pm weekly.
 
 
 #Invite Link
