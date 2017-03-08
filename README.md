@@ -46,7 +46,7 @@
 
 #Events
 
-• ``[Timezone`` UTC+0
+• ``[Timezone]`` UTC+0
 
 • ``[Thursday]`` Hentai poll at 9pm weekly.
 
