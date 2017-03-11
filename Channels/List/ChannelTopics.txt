@@ -1,0 +1,50 @@
+#rules
+   If something feels off. its probably since you havent read the stuff here. Designed by: Neku, Terra, Kiki
+#announcement
+   Where the interesting stuff are shown.
+#nsfw-announcement
+   Doesn't have a topic.
+#log
+   Where the interesting stuff are shown.
+#moderation
+   Where the evil people plan out their evil plans.
+#containment
+   For new users, Will be allowed to roam free after 5 mins
+#calm-chat
+   A chat for the calm-minded or the serious-minded
+#general
+   A server that focuses on creating a nice and cozy community, where everyone can talk about what they want and feel at home.
+#off-topic
+   A chat for things that doesnt relate to whats going in any channel
+#muted-chat
+   Doesn't have a topic.
+#update-log
+   Shows version updates on stuff we work on
+#bot-commands
+   Doesn't have a topic.
+#bot-testing
+   Doesn't have a topic.
+#development
+   Man created puppet. A slave born without emotions also known as @Venik.
+#va-11hall-a
+   Doesn't have a topic.
+#coding
+   Don't drink and code, kids.
+#tech
+   Doesn't have a topic.
+#music
+   Music goes here~
+#images
+   images goes here~
+#roleplay
+   Doesn't have a topic.
+#suggestions
+   images goes here~
+#spam
+   We recommend you to not take the people here seriously
+#nsfw
+   A place for important scientific research.
+#alt-nsfw
+   Doesn't have a topic.
+   
+NOTE: 'Doesn't have a topic.' refers to the channel not having a channel topic, it doesn't mean you can discuss anything in there.
