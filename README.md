@@ -1,5 +1,4 @@
-c
-![Banner](https://github.com/NekuNeku/KUD/blob/master/Banners/Readme/Top/1/KUD-Banner-Github.png)
+![Banner](https://github.com/NekuNeku/KUD/blob/master/Banners/Readme/Top/2/PNG/KUD-Banner.png)
 
 #Staff
 
