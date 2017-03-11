@@ -1,3 +1,4 @@
+c
 ![Banner](https://github.com/NekuNeku/KUD/blob/master/Banners/Readme/Top/1/KUD-Banner-Github.png)
 
 #Staff
@@ -9,7 +10,7 @@
 
 #Rules
 
-• Keep NSFW content to its respective channels(the channels are #nsfw and #alt-nsfw).
+• Keep NSFW content to its respective channels ( **#nsfw**, **#alt-nsfw** ).
 
 • Spamming will not be tolerated.
 
@@ -50,7 +51,7 @@
 
 • ``[Thursday]`` Hentai poll at 9pm weekly.
 
-• ``[Friday]`` Hentai stream at 9pm weekly | Movie poll at 9pm weekly.
+• ``[Friday]`` Hentai stream at 9pm weekly | Movie poll at 10pm weekly.
 
 • ``[Saturday]`` Movie stream 9pm weekly.
 
