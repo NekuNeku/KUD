@@ -6,7 +6,7 @@
 • **@Neku#2233** is the owner of KUD.
 
 
-![Banner](https://github.com/NekuNeku/KUD/blob/master/Banners/Readme/Body/2/PNG/ADVICE.png)
+![Banner](https://github.com/NekuNeku/KUD/blob/master/Banners/Readme/Body/2/PNG/RULES.png)
 
 • Keep NSFW content to its respective channels ( **#nsfw**, **#alt-nsfw** ).
 
@@ -19,7 +19,7 @@
 • All rules apply to Direct Messages (DMs).
 
 
-#Advice
+![Banner](https://github.com/NekuNeku/KUD/blob/master/Banners/Readme/Body/2/PNG/ADVICE.png)
 
 • In order to gain access to the hidden channels go-to #bot-commands and use the commands ``>>leave``, ``>>join`` and ``>>list``
 
@@ -32,7 +32,7 @@
 • @Neku#2233's website is <http://www.nekku.me/>
 
 
-#Bots
+![Banner](https://github.com/NekuNeku/KUD/blob/master/Banners/Readme/Body/2/PNG/BOTS.png)
 
 • Direct Message a member of @Staff to request your bot being added.
 
@@ -43,7 +43,7 @@
 • Your bot will not be added instantly unless you have been referred by a trusted member.
 
 
-#Events
+![Banner](https://github.com/NekuNeku/KUD/blob/master/Banners/Readme/Body/2/PNG/EVENTS.png)
 
 • ``[Timezone]`` UTC+0
 
