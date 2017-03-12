@@ -1,13 +1,12 @@
 ![Banner](https://github.com/NekuNeku/KUD/blob/master/Banners/Readme/Top/2/PNG/KUD-Banner.png)
 
-#Staff
 
 • Staff can be contacted at the group handle **@Staff**.
 
 • **@Neku#2233** is the owner of KUD.
 
 
-#Rules
+![Banner] https://github.com/NekuNeku/KUD/blob/master/Banners/Readme/Body/2/PNG/ADVICE.png
 
 • Keep NSFW content to its respective channels ( **#nsfw**, **#alt-nsfw** ).
 
