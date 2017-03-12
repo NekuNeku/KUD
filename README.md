@@ -1,4 +1,4 @@
-![Banner](https://github.com/NekuNeku/KUD/blob/master/Banners/Readme/Top/2/PNG/KUD-Banner.png)
+![Banner](https://github.com/NekuNeku/KUD/blob/master/Banners/Readme/Top/2/PNG/KUD-Banner-Small.png)
 
 
 • Staff can be contacted at the group handle **@Staff**.
