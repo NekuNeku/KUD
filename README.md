@@ -6,7 +6,7 @@
 • **@Neku#2233** is the owner of KUD.
 
 
-![Banner] https://github.com/NekuNeku/KUD/blob/master/Banners/Readme/Body/2/PNG/ADVICE.png
+![Banner](https://github.com/NekuNeku/KUD/blob/master/Banners/Readme/Body/2/PNG/ADVICE.png)
 
 • Keep NSFW content to its respective channels ( **#nsfw**, **#alt-nsfw** ).
 
