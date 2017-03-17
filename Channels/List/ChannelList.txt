@@ -38,7 +38,7 @@ coding            [Coder]
 tech              [Tech]
 music             [Music]
 images            [Image]
-art               [art]
+art               [Art]
 gaming            [Gaming]
 roleplay          [Roleplay]
 suggestions       [Suggestions}
