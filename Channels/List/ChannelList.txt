@@ -1,3 +1,6 @@
+l-----Groups-----l
+candy
+
 l-----read-----l
 readme
 announcements
@@ -29,10 +32,13 @@ development       [Developer]
 
 l----optional----l
 va-11hall-a       [VA-11 HALL-A]
+emotion           [Emotion]
+food              [Food]
 coding            [Coder]
 tech              [Tech]
 music             [Music]
 images            [Image]
+art               [art]
 gaming            [Gaming]
 roleplay          [Roleplay]
 suggestions       [Suggestions}
